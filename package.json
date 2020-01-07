@@ -1,7 +1,7 @@
 {
-  "name": "v2gif",
+  "name": "@s25g5d4/v2gif",
   "version": "1.0.0",
-  "description": "convert video to gif using ffmpeg",
+  "description": "Convert video to gif using ffmpeg.",
   "keywords": [
     "ffmpeg",
     "video",
@@ -18,12 +18,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/s25g5d4/v2gif.git"
+    "url": "git+https://github.com/s25g5d4/v2gif.git"
   },
   "author": "zjwu <s25g5d4@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "commander": "^4.1.0",
     "shelljs": "^0.8.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/s25g5d4/v2gif/issues"
+  },
+  "homepage": "https://github.com/s25g5d4/v2gif#readme",
+  "devDependencies": {}
 }
