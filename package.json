@@ -1,6 +1,6 @@
 {
   "name": "@s25g5d4/v2gif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert video to gif using ffmpeg.",
   "keywords": [
     "ffmpeg",
